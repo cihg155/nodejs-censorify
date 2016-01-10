@@ -7,7 +7,7 @@
   "dependencies" : {},
   "engines" : {
       "node": "*"
-  }
+  },
   "repository" : {
     "type": "git",
     "url" : "https://github.com/cihg155/nodejs-censorify"
